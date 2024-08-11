@@ -6,7 +6,7 @@ This R package enables the user to create soundscapes of 2-dimensional data. As 
 
 The current release can be installed from CRAN using
 ```
-install.package("sonify")
+install.packages("sonify")
 ```
 and then loaded in to an R session with
 ```
